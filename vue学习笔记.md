@@ -55,6 +55,8 @@
         - 和jQueryMobile一样,只需要给标签赋class,角色
         - bootstrap.js依赖jQuery(html中jQuery引用要在bootstrap前,不然报错)
 
+https://www.cnblogs.com/xuanhun/p/6019038.html?utm_source=tuicool&utm_medium=referral
+
 
 
 
